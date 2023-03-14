@@ -1,1072 +1,0 @@
-(Spot col/row : 2/0 with val 9 was found
-Found duplicate value 
-The Sudoku is valid
-(Spot col/row : 2/0 with val 9 was found
-Found duplicate value 
-(Spot col/row : 0/6 with val 9 was found
-Found duplicate value 
-(Spot col/row : 7/4 with val 9 was found
-Found duplicate value 
-(Spot col/row : 2/0 with val 9 was found
-Found duplicate value 
-(Spot col/row : 8/1 with val 9 was found
-Found duplicate value 
-The Sudoku is invalid
-[9, ., 9, 7, 4, 8, ., 9, 2]
-[7, ., ., 6, ., 2, ., ., 9]
-[., 2, ., 1, ., 9, ., ., .]
-[., ., 7, 9, 8, 6, 2, 4, 1]
-[2, 6, 4, 3, 1, 7, 5, 9, 8]
-[1, 9, 8, 5, 2, 4, 3, 6, 7]
-[9, ., ., 8, 6, 3, ., 2, .]
-[., ., 2, 4, 9, 1, ., ., 6]
-[., ., ., 2, 7, 5, 9, ., .]
-
-(Spot col/row : 7/3 with val 7 was found
-Found duplicate value 
-The Sudoku is invalid
-[2, 7, ., ., ., ., ., ., 8]
-[8, ., ., ., 7, 5, 2, ., .]
-[., ., 9, 8, 2, ., ., 7, 1]
-[., ., ., 6, ., ., 1, 7, 9]
-[1, ., ., ., ., ., 4, 2, .]
-[., ., ., ., ., 2, 8, 3, .]
-[9, 6, ., ., ., ., 7, 8, 3]
-[., ., 8, 3, ., ., ., ., .]
-[., ., 5, ., 9, 8, 6, 1, .]
-
-(Spot col/row : 2/0 with val 9 was found
-Found duplicate value 
-Setting currentVal 
-(Spot col/row : 8/0 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 8/0 with val 2 was found
-call Number 0
-The Sudoku is valid
-The Sudoku is valid
-[5, 3, ., ., 7, ., ., ., .]
-[6, ., ., 1, 9, 5, ., ., .]
-[., 9, 8, ., ., ., ., 6, .]
-[8, ., ., ., 6, ., ., ., 3]
-[4, ., ., 8, ., 3, ., ., 1]
-[7, ., ., ., 2, ., ., ., 6]
-[., 6, ., ., ., ., 2, 8, .]
-[., ., ., 4, 1, 9, ., ., 5]
-[., ., ., ., 8, ., ., 7, 9]
-
-Setting currentVal 
-(Spot col/row : 3/4 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 3/4 with val 3 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 8/4 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 8/4 with val 8 was found
-call Number 0
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 4/3 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 4/3 with val 8 was found
-call Number 1
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 0/4 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 0/4 with val 2 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/4 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 5/4 with val 7 was found
-call Number 2
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 4/7 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 4/7 with val 9 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 2/7 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 2/7 with val 2 was found
-call Number 3
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/7 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 5/7 with val 1 was found
-call Number 4
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 4/6 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 4/6 with val 6 was found
-call Number 5
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 3/7 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 3/7 with val 4 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 3/3 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 3/3 with val 9 was found
-call Number 6
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/3 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 5/3 with val 6 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/5 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 5/5 with val 4 was found
-call Number 7
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 4/5 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 4/5 with val 2 was found
-call Number 8
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 3/5 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 3/5 with val 5 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 7/5 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 7/5 with val 6 was found
-call Number 9
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 3/1 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 3/1 with val 6 was found
-call Number 10
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 0/5 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 0/5 with val 1 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 8/5 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 8/5 with val 7 was found
-call Number 11
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 0/6 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 0/6 with val 9 was found
-call Number 12
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/1 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 5/1 with val 2 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 8/1 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 8/1 with val 9 was found
-call Number 13
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 8/3 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 8/3 with val 1 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 8/0 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 8/0 with val 2 was found
-call Number 14
-The Sudoku is valid
-[., ., 9, 7, 4, 8, ., ., 2]
-[7, ., ., 6, ., 2, ., ., 9]
-[., 2, ., 1, ., 9, ., ., .]
-[., ., 7, 9, 8, 6, 2, 4, 1]
-[2, 6, 4, 3, 1, 7, 5, 9, 8]
-[1, 9, 8, 5, 2, 4, 3, 6, 7]
-[9, ., ., 8, 6, 3, ., 2, .]
-[., ., 2, 4, 9, 1, ., ., 6]
-[., ., ., 2, 7, 5, 9, ., .]
-
-The Sudoku is valid
-(Spot col/row : 0/6 with val 9 was found
-Found duplicate value 
-(Spot col/row : 7/4 with val 9 was found
-Found duplicate value 
-(Spot col/row : 2/0 with val 9 was found
-Found duplicate value 
-(Spot col/row : 8/1 with val 9 was found
-Found duplicate value 
-Setting currentVal 
-(Spot col/row : 4/4 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 4/4 with val 5 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 2/4 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 2/4 with val 6 was found
-call Number 0
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 6/4 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 6/4 with val 7 was found
-call Number 1
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 4/2 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 4/2 with val 4 was found
-call Number 2
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 1/4 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 1/4 with val 2 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 7/4 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 7/4 with val 9 was found
-call Number 3
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 1/7 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 1/7 with val 8 was found
-call Number 4
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 2/5 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 2/5 with val 3 was found
-call Number 5
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 3/5 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 3/5 with val 9 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 6/5 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 6/5 with val 8 was found
-call Number 6
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 3/3 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 3/3 with val 7 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 7/3 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 7/3 with val 2 was found
-call Number 7
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 2/3 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 2/3 with val 9 was found
-call Number 8
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 4/6 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 4/6 with val 3 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 0/6 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 0/6 with val 9 was found
-call Number 9
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/6 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 5/6 with val 7 was found
-call Number 10
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 3/6 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 3/6 with val 5 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 2/6 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 2/6 with val 1 was found
-call Number 11
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 3/2 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 3/2 with val 3 was found
-call Number 12
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/2 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 5/2 with val 2 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 6/2 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 6/2 with val 5 was found
-call Number 13
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 8/2 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 8/2 with val 7 was found
-call Number 14
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/0 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 5/0 with val 8 was found
-call Number 15
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 3/0 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 3/0 with val 6 was found
-call Number 16
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 0/2 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 0/2 with val 1 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 3/8 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 3/8 with val 2 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 6/8 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 6/8 with val 1 was found
-call Number 17
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/8 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 5/8 with val 6 was found
-call Number 18
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 0/8 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 0/8 with val 3 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 0/7 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 0/7 with val 2 was found
-call Number 19
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 2/7 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 2/7 with val 7 was found
-call Number 20
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 6/3 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 6/3 with val 4 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 1/3 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 1/3 with val 5 was found
-call Number 21
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 6/7 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 6/7 with val 6 was found
-call Number 22
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 6/0 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 6/0 with val 9 was found
-call Number 23
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 7/5 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 7/5 with val 5 was found
-call Number 24
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 1/5 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 1/5 with val 1 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/5 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 5/5 with val 4 was found
-call Number 25
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 1/1 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 1/1 with val 7 was found
-call Number 26
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 1/8 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 1/8 with val 4 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 2/8 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 2/8 with val 5 was found
-call Number 27
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/3 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 5/3 with val 1 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 6/1 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 6/1 with val 3 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 8/1 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 8/1 with val 8 was found
-call Number 28
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 7/0 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 7/0 with val 1 was found
-call Number 29
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 8/0 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 8/0 with val 2 was found
-call Number 30
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 2/0 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 2/0 with val 4 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 2/1 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 2/1 with val 2 was found
-call Number 31
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 7/1 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 7/1 with val 4 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 7/7 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 7/7 with val 3 was found
-call Number 32
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 8/6 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 8/6 with val 4 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 8/0 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 8/0 with val 2 was found
-call Number 0
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 3/4 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 3/4 with val 3 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 8/4 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 8/4 with val 8 was found
-call Number 1
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 4/3 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 4/3 with val 8 was found
-call Number 2
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 0/4 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 0/4 with val 2 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/4 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 5/4 with val 7 was found
-call Number 3
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 4/7 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 4/7 with val 9 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 2/7 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 2/7 with val 2 was found
-call Number 4
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/7 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 5/7 with val 1 was found
-call Number 5
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 4/6 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 4/6 with val 6 was found
-call Number 6
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 3/7 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 3/7 with val 4 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 3/3 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 3/3 with val 9 was found
-call Number 7
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/3 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 5/3 with val 6 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/5 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 5/5 with val 4 was found
-call Number 8
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 4/5 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 4/5 with val 2 was found
-call Number 9
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 3/5 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 3/5 with val 5 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 7/5 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 7/5 with val 6 was found
-call Number 10
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 3/1 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 3/1 with val 6 was found
-call Number 11
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 0/5 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 0/5 with val 1 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 8/5 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 8/5 with val 7 was found
-call Number 12
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 0/6 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 0/6 with val 9 was found
-call Number 13
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/1 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 5/1 with val 2 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 8/1 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 8/1 with val 9 was found
-call Number 14
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 8/3 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 8/3 with val 1 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 4/4 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 4/4 with val 5 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 2/4 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 2/4 with val 6 was found
-call Number 0
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 6/4 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 6/4 with val 7 was found
-call Number 1
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 4/2 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 4/2 with val 4 was found
-call Number 2
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 1/4 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 1/4 with val 2 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 7/4 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 7/4 with val 9 was found
-call Number 3
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 1/7 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 1/7 with val 8 was found
-call Number 4
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 2/5 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 2/5 with val 3 was found
-call Number 5
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 3/5 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 3/5 with val 9 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 6/5 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 6/5 with val 8 was found
-call Number 6
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 3/3 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 3/3 with val 7 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 7/3 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 7/3 with val 2 was found
-call Number 7
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 2/3 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 2/3 with val 9 was found
-call Number 8
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 4/6 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 4/6 with val 3 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 0/6 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 0/6 with val 9 was found
-call Number 9
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/6 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 5/6 with val 7 was found
-call Number 10
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 3/6 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 3/6 with val 5 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 2/6 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 2/6 with val 1 was found
-call Number 11
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 3/2 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 3/2 with val 3 was found
-call Number 12
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/2 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 5/2 with val 2 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 6/2 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 6/2 with val 5 was found
-call Number 13
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 8/2 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 8/2 with val 7 was found
-call Number 14
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/0 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 5/0 with val 8 was found
-call Number 15
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 3/0 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 3/0 with val 6 was found
-call Number 16
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 0/2 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 0/2 with val 1 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 3/8 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 3/8 with val 2 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 6/8 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 6/8 with val 1 was found
-call Number 17
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/8 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 5/8 with val 6 was found
-call Number 18
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 0/8 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 0/8 with val 3 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 0/7 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 0/7 with val 2 was found
-call Number 19
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 2/7 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 2/7 with val 7 was found
-call Number 20
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 6/3 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 6/3 with val 4 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 1/3 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 1/3 with val 5 was found
-call Number 21
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 6/7 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 6/7 with val 6 was found
-call Number 22
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 6/0 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 6/0 with val 9 was found
-call Number 23
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 7/5 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 7/5 with val 5 was found
-call Number 24
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 1/5 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 1/5 with val 1 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/5 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 5/5 with val 4 was found
-call Number 25
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 1/1 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 1/1 with val 7 was found
-call Number 26
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 1/8 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 1/8 with val 4 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 2/8 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 2/8 with val 5 was found
-call Number 27
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 5/3 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 5/3 with val 1 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 6/1 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 6/1 with val 3 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 8/1 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 8/1 with val 8 was found
-call Number 28
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 7/0 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 7/0 with val 1 was found
-call Number 29
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 8/0 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 8/0 with val 2 was found
-call Number 30
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 2/0 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 2/0 with val 4 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 2/1 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 2/1 with val 2 was found
-call Number 31
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 7/1 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 7/1 with val 4 was found
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 7/7 with val . was found
---
-findAllPossibilitiesInGroup
-(Spot col/row : 7/7 with val 3 was found
-call Number 32
-The Sudoku is valid
-Setting currentVal 
-(Spot col/row : 8/6 with val . was found
---
-findSingleDerivedElements
-(Spot col/row : 8/6 with val 4 was found
-The Sudoku is valid
